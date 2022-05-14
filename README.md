@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Visit Penrith](https://github.com/mpbasto/visit-penrith.git)
 
-- 🌱 I’m currently learning **PostgreSQL, Machine Learning & Data Science**
+- 🌱 I’m currently learning **Databases, SQL and brushing up my maths 🦸🏻‍♀️*
 
 - 👨‍💻 All of my projects are available [here](https://martapbasto.netlify.com/)!
 
