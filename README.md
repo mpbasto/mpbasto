@@ -4,13 +4,13 @@
 
 - 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on [Visit Penrith](https://github.com/mpbasto/visit-penrith.git)
+- 🔭 I’m currently working in xLabs
 
-- 🌱 I’m currently learning **Databases, SQL and brushing up my maths 🦸🏻‍♀️**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available [here](https://martapbasto.netlify.com/)!
+- 👨‍💻 All of my complete projects are available [here](https://martapbasto.netlify.com/)!
 
-- 🥳 2022 Resolutions: **contribute to open source projects :octocat:, grow my own veggies 🧑‍🌾 & master Python 🐍**
+- 🥳 2022 Resolutions: **contribute to open source projects :octocat:**
 
 - ⚡ Fun fact? **I collect fridge magnets from every city I have visited 🌍**
 
