@@ -4,9 +4,9 @@
 
 - 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working in xLabs
+- 🔭 I’m currently working with xDesign
 
-- 🌱 I’m currently learning **Java** and **Go**
+- 🌱 I’m currently learning **NextJS** and **NodeJS**
 
 - 👨‍💻 All of my complete projects are available [here](https://martapbasto.netlify.com/)!
 
