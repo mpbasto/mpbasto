@@ -1,12 +1,12 @@
 <!-- INTRO -->
 <h1 align="center">🧑‍💻 Hello there, I'm Marta!</h1>
-<h3 align="center">An xDesign Graduate Developer & part-time gardener 🌱</h3>
+<h3 align="center">xDesign Graduate Developer & part-time gardener 🌱</h3>
 
 - 😄 Pronouns: She/Her
 
 - 🔭 I’m currently working with xDesign
 
-- 🌱 I’m currently learning **NextJS** and **NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my complete projects are available [here](https://martapbasto.netlify.com/)!
 
