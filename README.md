@@ -1,16 +1,16 @@
 <!-- INTRO -->
 <h1 align="center">🧑‍💻 Hello there, I'm Marta!</h1>
-<h3 align="center">xDesign Graduate Developer & part-time gardener 🌱, musician 🎵 and gamer 🎮</h3>
+<h3 align="center">Junior Developer & part-time gardener 🌱, musician 🎵 and gamer 🎮</h3>
 
 - 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working with xDesign
+- 🔭 I’m currently working at xDesign
 
-- 🌱 I’m currently learning **NodeJS** and **Java**
+- 🌱 I’m currently learning all about **AWS** and **Java**
 
 - 👨‍💻 All of my complete projects are available [here](https://martapbasto.netlify.com/)!
 
-- 🥳 2023 Resolutions: **Read more books**
+- 🥳 2024 Resolutions: **AWS Cloud Practitioner certification**
 
 - ⚡ Fun fact? **I collect fridge magnets from every city I have visited 🌍**
 
