@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my complete projects are available [here](https://martapbasto.netlify.com/)!
 
-- 🥳 2024 Resolutions: **AWS Cloud Practitioner certification**
+- 🥳 2024 Resolutions: **AWS Solutions Architect Certification**
 
 - ⚡ Fun fact? **I collect fridge magnets from every city I have visited 🌍**
 
